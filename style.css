@@ -1,0 +1,55 @@
+div {
+    margin-top: 30px;
+    text-align: center;
+    font-family: Tahoma;
+    
+}
+
+img {
+    width: 190px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    width: 950px;
+    font-size: 18px;
+    line-height: 28px;
+    margin: auto;
+    margin-bottom: 25px;
+    padding-top: 10px;
+}
+
+a {
+    text-decoration: none;
+    background-color: #49b970;
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 25px;
+    padding: 13px 25px;
+}
+
+h3 {
+    margin: 30px 0;
+    font-size: 20px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sessoes {
+    border-top: 1.5px solid #d5d5d5;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+span {
+    font-weight: bold;
+}
+
